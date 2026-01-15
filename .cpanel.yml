@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cpidu1t888/public_html/peduliku/
+    - export DEPLOYPATH=/home/cpidu1t888/public_html/sipmodul/
     - /bin/cp -R * $DEPLOYPATH
